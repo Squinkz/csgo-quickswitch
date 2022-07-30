@@ -19,3 +19,5 @@ folder, and add the following to your autoexec.cfg:
 exec quickswitch
 host_writeconfig
 ```
+## Changing the default binds
+Open quickswitch.cfg in a text editor and look for every line that starts with 'bind '. Replace the existing key with your own and save.
